@@ -1,0 +1,22 @@
+{
+  "name": "apt-crystal",
+  "displayName": {
+    "default": "Aptlantis-Crystal"
+  },
+  "version": "0.1.0",
+  "minAppVersion": "3.7.0",
+  "description": {
+    "default": "A dark SiYuan theme with #0E1520 backgrounds, #25F7F9 primary accents, and #FEFEFE text, derived from the supplied Crystal palette."
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "modes": [
+    "dark"
+  ],
+  "frontends": [
+    "all"
+  ],
+  "icon": "icon.png",
+  "preview": "preview.png"
+}
