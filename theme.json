@@ -1,12 +1,14 @@
 {
   "name": "apt-crystal",
+  "author": "Aptlantis",
+  "url": "https://github.com/APTlantis/apt-Crystal",
   "displayName": {
     "default": "Aptlantis-Crystal"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minAppVersion": "3.7.0",
   "description": {
-    "default": "A dark SiYuan theme with #0E1520 backgrounds, #25F7F9 primary accents, and #FEFEFE text, derived from the supplied Crystal palette."
+    "default": "Image-derived dark theme"
   },
   "readme": {
     "default": "README.md"
